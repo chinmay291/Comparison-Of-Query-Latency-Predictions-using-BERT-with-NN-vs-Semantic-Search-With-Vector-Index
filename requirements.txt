@@ -1,0 +1,7 @@
+PostgreSQL-14 was used in this project. pgbench and auto_explain are utilities that are a part of the standard PostgreSQL installation. 
+
+The following Python packages were used in this project. They can be installed using the pip package manager:
+1. scikit-learn
+2. langchain 
+3. llama_index
+4. sentence_transformers
