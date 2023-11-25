@@ -5,3 +5,6 @@ The following Python packages were used in this project. They can be installed u
 2. langchain 
 3. llama_index
 4. sentence_transformers
+5. numpy
+6. xgboost
+7. tensorflow
